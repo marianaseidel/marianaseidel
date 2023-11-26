@@ -1,5 +1,7 @@
 <h1 align="center">Olá, eu sou Mariana Seidel</h1> 
 <h3 align="center">Em transição de carreira como desenvolvedora front-end</h3> 
+<h4 align="center"> :world_map: De Pernambuco, Brasil</h4> 	
+
 <br>
 
 
