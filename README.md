@@ -3,6 +3,7 @@
 - :woman_technologist: Em transição de carreira como desenvolvedora front-end desde 2023.
 - :computer: Linguagens: **Html, CSS e JavaScript.**
 - :computer: Aprendiz: **Java**.
+- :abacus: Outras ferramentas: **Figma**.
 - :earth_americas: Pernambuco, Brasil.
 
 
