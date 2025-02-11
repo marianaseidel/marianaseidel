@@ -1,6 +1,6 @@
 # Olá, eu sou Mariana Seidel
 
-- :woman_technologist: Em transição de carreira como desenvolvedora front-end desde 2023.
+- :woman_technologist: UI designer e desenvolvedora front-end júnior.
 - :computer: Linguagens: **Html, CSS e JavaScript.**
 - :computer: Aprendiz: **Java**.
 - :abacus: Outras ferramentas: **Figma**.
